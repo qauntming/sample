@@ -1,3 +1,9 @@
-# sample
+# samples_cpp
+- this is the samples for cpp study
 
-sdgdsfg
+
+```
+1. simple virtual func
+
+```
+
